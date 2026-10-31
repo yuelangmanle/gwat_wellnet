@@ -1,0 +1,643 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "N100AKUNCD",
+        "national_aquifer_name": "Alaska unconsolidated-deposit aquifers"
+      },
+      "id": "N100AKUNCD",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "N100ALLUVL",
+        "national_aquifer_name": "Alluvial aquifers"
+      },
+      "id": "N100ALLUVL",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "N100BSNRGB",
+        "national_aquifer_name": "Basin and Range basin-fill aquifers"
+      },
+      "id": "N100BSNRGB",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "N100CACSTL",
+        "national_aquifer_name": "California Coastal Basin aquifers"
+      },
+      "id": "N100CACSTL",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "N100CMBPLB",
+        "national_aquifer_name": "Columbia Plateau basin-fill aquifers"
+      },
+      "id": "N100CMBPLB",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "N100GLCIAL",
+        "national_aquifer_name": "Sand and gravel aquifers (glaciated regions)"
+      },
+      "id": "N100GLCIAL",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "N100HGHPLN",
+        "national_aquifer_name": "High Plains aquifer"
+      },
+      "id": "N100HGHPLN",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "N100MSRVVL",
+        "national_aquifer_name": "Mississippi River Valley alluvial aquifer"
+      },
+      "id": "N100MSRVVL",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "N100PCFNWB",
+        "national_aquifer_name": "Pacific Northwest basin-fill aquifers"
+      },
+      "id": "N100PCFNWB",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "N100PCFNWV",
+        "national_aquifer_name": "Pacific Northwest volcanic-rock aquifers"
+      },
+      "id": "N100PCFNWV",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "N100PCSRVR",
+        "national_aquifer_name": "Pecos River Basin alluvial aquifer"
+      },
+      "id": "N100PCSRVR",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "N100SYMOUR",
+        "national_aquifer_name": "Seymour aquifer"
+      },
+      "id": "N100SYMOUR",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "N100WLMLWD",
+        "national_aquifer_name": "Willamette Lowland basin-fill aquifers"
+      },
+      "id": "N100WLMLWD",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "N300ADAVMS",
+        "national_aquifer_name": "Ada-Vamoosa aquifer"
+      },
+      "id": "N300ADAVMS",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "N300CNRLOK",
+        "national_aquifer_name": "Central Oklahoma aquifer"
+      },
+      "id": "N300CNRLOK",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "N300COPLTS",
+        "national_aquifer_name": "Colorado Plateaus aquifers"
+      },
+      "id": "N300COPLTS",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "N300ERLMZC",
+        "national_aquifer_name": "Early Mesozoic basin aquifers"
+      },
+      "id": "N300ERLMZC",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "N300JCBSVL",
+        "national_aquifer_name": "Jacobsville aquifer"
+      },
+      "id": "N300JCBSVL",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "N300LCRTCS",
+        "national_aquifer_name": "Lower Cretaceous aquifers"
+      },
+      "id": "N300LCRTCS",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "N300LTRTRY",
+        "national_aquifer_name": "Lower Tertiary aquifers"
+      },
+      "id": "N300LTRTRY",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "N300MRSHLL",
+        "national_aquifer_name": "Marshall aquifer"
+      },
+      "id": "N300MRSHLL",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "N300NYSDSN",
+        "national_aquifer_name": "New York sandstone aquifers"
+      },
+      "id": "N300NYSDSN",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "N300PNSLVN",
+        "national_aquifer_name": "Pennsylvanian aquifers"
+      },
+      "id": "N300PNSLVN",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "N300RSHSPG",
+        "national_aquifer_name": "Rush Springs aquifer"
+      },
+      "id": "N300RSHSPG",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "N300STHCST",
+        "national_aquifer_name": "South Coast aquifer (Puerto Rico)"
+      },
+      "id": "N300STHCST",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "N300UPCTCS",
+        "national_aquifer_name": "Upper Cretaceous aquifers"
+      },
+      "id": "N300UPCTCS",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "N300WYTRTR",
+        "national_aquifer_name": "Wyoming Tertiary aquifers"
+      },
+      "id": "N300WYTRTR",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "N400ABKSMP",
+        "national_aquifer_name": "Arbuckle-Simpson aquifer"
+      },
+      "id": "N400ABKSMP",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "N400BISCYN",
+        "national_aquifer_name": "Biscayne aquifer"
+      },
+      "id": "N400BISCYN",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "N400BLAINE",
+        "national_aquifer_name": "Blaine aquifer"
+      },
+      "id": "N400BLAINE",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "N400BSNRGC",
+        "national_aquifer_name": "Basin and Range carbonate-rock aquifers"
+      },
+      "id": "N400BSNRGC",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "N400CSLHYN",
+        "national_aquifer_name": "Castle Hayne aquifer"
+      },
+      "id": "N400CSLHYN",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "N400KNGSHL",
+        "national_aquifer_name": "Kingshill aquifer (Virgin Islands)"
+      },
+      "id": "N400KNGSHL",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "N400NCSTLM",
+        "national_aquifer_name": "North Coast Limestone aquifer system (Puerto Rico)"
+      },
+      "id": "N400NCSTLM",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "N400NYNECB",
+        "national_aquifer_name": "New York and New England carbonate-rock aquifers"
+      },
+      "id": "N400NYNECB",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "N400ORDVCN",
+        "national_aquifer_name": "Ordovician aquifers"
+      },
+      "id": "N400ORDVCN",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "N400PDMBRC",
+        "national_aquifer_name": "Piedmont and Blue Ridge carbonate-rock aquifers"
+      },
+      "id": "N400PDMBRC",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "N400PDMBRX",
+        "national_aquifer_name": "Piedmont and Blue Ridge crystalline-rock aquifers"
+      },
+      "id": "N400PDMBRX",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "N400SLRDVN",
+        "national_aquifer_name": "Silurian-Devonian aquifers"
+      },
+      "id": "N400SLRDVN",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "N400UPCRBN",
+        "national_aquifer_name": "Upper carbonate aquifer"
+      },
+      "id": "N400UPCRBN",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "N500MSSPPI",
+        "national_aquifer_name": "Mississippian aquifers"
+      },
+      "id": "N500MSSPPI",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "N500PLOZOC",
+        "national_aquifer_name": "Paleozoic aquifers"
+      },
+      "id": "N500PLOZOC",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "N500VLYRDG",
+        "national_aquifer_name": "Valley and Ridge aquifers"
+      },
+      "id": "N500VLYRDG",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "N600CMBPLV",
+        "national_aquifer_name": "Columbia Plateau basaltic-rock aquifers"
+      },
+      "id": "N600CMBPLV",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "N600HIVLCC",
+        "national_aquifer_name": "Hawaii volcanic-rock aquifers"
+      },
+      "id": "N600HIVLCC",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "N600NECRSN",
+        "national_aquifer_name": "New York and New England crystalline-rock aquifers"
+      },
+      "id": "N600NECRSN",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "N600SKRVPB",
+        "national_aquifer_name": "Snake River Plain basin-fill aquifers"
+      },
+      "id": "N600SKRVPB",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "N600SKRVPV",
+        "national_aquifer_name": "Snake River Plain basaltic-rock aquifers"
+      },
+      "id": "N600SKRVPV",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "N600SRNVDV",
+        "national_aquifer_name": "Southern Nevada volcanic-rock aquifers"
+      },
+      "id": "N600SRNVDV",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "N9999OTHER",
+        "national_aquifer_name": "Other aquifers"
+      },
+      "id": "N9999OTHER",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "S100CNRLVL",
+        "national_aquifer_name": "Central Valley aquifer system"
+      },
+      "id": "S100CNRLVL",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "S100CSLLWD",
+        "national_aquifer_name": "Coastal lowlands aquifer system"
+      },
+      "id": "S100CSLLWD",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "S100MSEMBM",
+        "national_aquifer_name": "Mississippi embayment aquifer system"
+      },
+      "id": "S100MSEMBM",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "S100NATLCP",
+        "national_aquifer_name": "Northern Atlantic Coastal Plain aquifer system"
+      },
+      "id": "S100NATLCP",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "S100NRMTIB",
+        "national_aquifer_name": "Northern Rocky Mountains Intermontane Basins aquifer systems"
+      },
+      "id": "S100NRMTIB",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "S100PGTSND",
+        "national_aquifer_name": "Puget Sound aquifer system"
+      },
+      "id": "S100PGTSND",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "S100RIOGRD",
+        "national_aquifer_name": "Rio Grande aquifer system"
+      },
+      "id": "S100RIOGRD",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "S100SECSLP",
+        "national_aquifer_name": "Southeastern Coastal Plain aquifer system"
+      },
+      "id": "S100SECSLP",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "S100SURFCL",
+        "national_aquifer_name": "Surficial aquifer system"
+      },
+      "id": "S100SURFCL",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "S100TXCLUP",
+        "national_aquifer_name": "Texas coastal uplands aquifer system"
+      },
+      "id": "S100TXCLUP",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "S300CAMORD",
+        "national_aquifer_name": "Cambrian-Ordovician aquifer system"
+      },
+      "id": "S300CAMORD",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "S300DNVRBS",
+        "national_aquifer_name": "Denver Basin aquifer system"
+      },
+      "id": "S300DNVRBS",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "S400FLORDN",
+        "national_aquifer_name": "Floridan aquifer system"
+      },
+      "id": "S400FLORDN",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "S400OZRKPL",
+        "national_aquifer_name": "Ozark Plateaus aquifer system"
+      },
+      "id": "S400OZRKPL",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "S400RSWLBS",
+        "national_aquifer_name": "Roswell Basin aquifer system"
+      },
+      "id": "S400RSWLBS",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "S500EDRTRN",
+        "national_aquifer_name": "Edwards-Trinity aquifer system"
+      },
+      "id": "S500EDRTRN",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "S500INTRMD",
+        "national_aquifer_name": "Intermediate aquifer system"
+      },
+      "id": "S500INTRMD",
+      "geometry": null
+    }
+  ],
+  "numberReturned": 67,
+  "numberMatched": 67,
+  "links": [
+    {
+      "type": "application/geo+json",
+      "rel": "self",
+      "title": "This document as GeoJSON",
+      "href": "https://api.waterdata.usgs.gov/ogcapi/v1/collections/national-aquifer-codes/items?f=json&limit=200"
+    },
+    {
+      "rel": "alternate",
+      "type": "application/ld+json",
+      "title": "This document as RDF (JSON-LD)",
+      "href": "https://api.waterdata.usgs.gov/ogcapi/v1/collections/national-aquifer-codes/items?f=jsonld&limit=200"
+    },
+    {
+      "type": "text/html",
+      "rel": "alternate",
+      "title": "This document as HTML",
+      "href": "https://api.waterdata.usgs.gov/ogcapi/v1/collections/national-aquifer-codes/items?f=html&limit=200"
+    },
+    {
+      "type": "text/csv; charset=utf-8",
+      "rel": "alternate",
+      "title": "This document as CSV",
+      "href": "https://api.waterdata.usgs.gov/ogcapi/v1/collections/national-aquifer-codes/items?f=csv&limit=200"
+    },
+    {
+      "type": "application/json",
+      "title": "National aquifer codes",
+      "rel": "collection",
+      "href": "https://api.waterdata.usgs.gov/ogcapi/v1/collections/national-aquifer-codes"
+    }
+  ],
+  "timeStamp": "2026-10-23T07:32:02.194549Z"
+}

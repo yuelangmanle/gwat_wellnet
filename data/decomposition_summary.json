@@ -1,0 +1,10 @@
+{
+ "n_strata": 21,
+ "c_i_range": [
+  0.55,
+  4.05
+ ],
+ "c_bench_median": 1.05,
+ "functional_gain_median": 0.796,
+ "corr_c_i_glb_absSpearman": null
+}

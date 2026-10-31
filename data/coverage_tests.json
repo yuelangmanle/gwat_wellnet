@@ -1,0 +1,23 @@
+{
+ "coverage_overall": 0.5046296296296297,
+ "coverage_low_flip": 0.7394957983193278,
+ "coverage_transition": 0.23333333333333334,
+ "coverage_high_flip": 0.0,
+ "t_link": {
+  "nu": 3,
+  "scale": 1.77,
+  "transition_cov": 0.156,
+  "overall_cov": 0.366
+ },
+ "c_i_vs_composition": {
+  "spearman": -0.113,
+  "p": 0.635,
+  "n": 20
+ },
+ "window_changes": 4,
+ "c_i_vs_moransI": {
+  "spearman": 0.31,
+  "p": 0.184,
+  "n": 20
+ }
+}

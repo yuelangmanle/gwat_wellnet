@@ -1,0 +1,16 @@
+{
+ "n_trials": 143,
+ "n_strata": 13,
+ "flip_law_coverage_same_trials": 0.5594405594405595,
+ "sigloss": {
+  "slope_sampling_only": {
+   "w": 0.7472370984284429,
+   "coverage": 0.3146853146853147
+  },
+  "with_noise_growth": {
+   "w": 0.7864110035963026,
+   "coverage": 0.3146853146853147
+  }
+ },
+ "verdict": "significance loss does not collapse onto the same law: best-variant binomial coverage 31% vs 56% for the flip law on the same trials"
+}
