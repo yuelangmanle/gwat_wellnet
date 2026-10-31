@@ -1,0 +1,16 @@
+{
+ "raw_measurement_rows": 9456561,
+ "drop_invalid_time_or_value": 51883,
+ "drop_value_out_of_range": 253808,
+ "drop_not_approved": 25852,
+ "drop_pumping_level": 234752,
+ "well_day_records": 8814831,
+ "drop_outside_CONUS_well_days": 103049,
+ "site_rows": 1767360,
+ "eligible_wells": 29717,
+ "eligibility_rule": {
+  "min_measurements": 30,
+  "min_years": 20
+ },
+ "wells_with_any_record": 843302
+}
