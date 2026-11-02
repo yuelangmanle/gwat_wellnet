@@ -1,7 +1,7 @@
 # gwat_wellnet — Monitoring-network density and the reliability of groundwater-level trends
 
 Research pipeline behind the *Groundwater* (Wiley/NGWA) paper
-**"Monitoring Network Density and the Reliability of Groundwater-Level Trends: A Closed-Form Sampling Law."**
+**"Monitoring Network Density and Groundwater-Level Trend Reliability: A Closed-Form Law."**
 
 **Question.** How reliably does a reduced groundwater monitoring network reproduce
 the trend conclusion of the full network, and what is the minimum network size

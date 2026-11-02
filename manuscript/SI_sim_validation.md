@@ -1,4 +1,4 @@
-# Supporting Information for "Monitoring Network Density and the Reliability of Groundwater-Level Trends: A Closed-Form Sampling Law"
+# Supporting Information for "Monitoring Network Density and Groundwater-Level Trend Reliability: A Closed-Form Law"
 
 ## S1. Synthetic-population testbed for the finite-population sampling law
 
