@@ -90,4 +90,34 @@ Across the 22 reference series (21 strata plus CONUS), alternative constructions
 - **Nearly balanced panel (restricting to the 5,492 wells observed in ≥ 45 of the 51 years):** preserves the reference sign in 15 of 21 aquifer strata.
 - **Shifting the common analysis window start year to 1970–2025 or 1980–2025:** preserves the reference sign in 17 of 21 strata (the four strata that change sign—Basin and Range, Floridan, Surficial, and Mississippi embayment—all have weak reference trends with well-bootstrap 95% confidence intervals that include zero in Table 1).
 
+### S5.4 USGS national aquifer codes and official stratum names
+
+Table S3 lists the U.S. Geological Survey National Water Information System (NWIS) national aquifer codes (nat_aqfr_cd) and official USGS principal aquifer names corresponding to the 21 monitoring-well strata reported in Table 1 of the main text.
+
+Table S3. Mapping between Table 1 stratum labels, USGS NWIS national aquifer codes (nat_aqfr_cd), official USGS principal aquifer names, and eligible long-term monitoring well counts (N).
+
+| Table 1 stratum label | USGS code (nat_aqfr_cd) | Official USGS national aquifer name | Eligible wells (N) |
+| :--- | :--- | :--- | ---: |
+| High Plains | N100HGHPLN | High Plains aquifer | 8,160 |
+| Unassigned wells | (unassigned) | Wells without an assigned USGS national aquifer code | 6,932 |
+| Northern Atlantic Coastal Plain | S100NATLCP | Northern Atlantic Coastal Plain aquifer system | 1,959 |
+| Basin and Range basin-fill | N100BSNRGB | Basin and Range basin-fill aquifers | 1,557 |
+| Sand and gravel (glaciated) | N100GLCIAL | Sand and gravel aquifers (glaciated regions) | 1,422 |
+| Mississippi River Valley alluvial | N100MSRVVL | Mississippi River Valley alluvial aquifer | 1,237 |
+| Coastal lowlands | S100CSLLWD | Coastal lowlands aquifer system | 1,145 |
+| Alluvial aquifers | N100ALLUVL | Alluvial aquifers | 1,101 |
+| California Coastal Basins | N100CACSTL | California Coastal Basin aquifers | 863 |
+| Floridan | S400FLORDN | Floridan aquifer system | 819 |
+| Other aquifers | N9999OTHER | Other aquifers (designated minor or local aquifers) | 765 |
+| Rio Grande | S100RIOGRD | Rio Grande aquifer system | 742 |
+| Mississippi embayment | S100MSEMBM | Mississippi embayment aquifer system | 477 |
+| Biscayne | N400BISCYN | Biscayne aquifer | 232 |
+| Surficial aquifer system | S100SURFCL | Surficial aquifer system | 195 |
+| Intermediate aquifer system | S500INTRMD | Intermediate aquifer system | 186 |
+| Central Valley | S100CNRLVL | Central Valley aquifer system | 183 |
+| Roswell Basin | S400RSWLBS | Roswell Basin aquifer system | 155 |
+| Colorado Plateaus | N300COPLTS | Colorado Plateaus aquifers | 111 |
+| Cambrian-Ordovician | S300CAMORD | Cambrian-Ordovician aquifer system | 102 |
+| Columbia Plateau basaltic-rock | N600CMBPLV | Columbia Plateau basaltic-rock aquifers | 100 |
+
 All analysis scripts and derived datasets supporting Sections S1–S5 are archived in the public repository (https://github.com/yuelangmanle/gwat_wellnet).
